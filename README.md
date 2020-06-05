@@ -6,7 +6,7 @@ Description: This code is taken from another code and was cleaned to increase re
 
 Actions: In HTML
     1. Changed the title name.
-    2. Consolidate li items into one line between the brackets. 
+    2. Consolidated li items into one line between the brackets. 
     3. Contained navigation links in nav tags.
     4. Replaces div tags with header tags.
     5. Replaces div tags with selector tags.
